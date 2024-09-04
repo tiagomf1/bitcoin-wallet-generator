@@ -5,7 +5,7 @@ Este script para nodejs cria wallets bitcoin utilizáveis com base em uma seed p
 node src/createWallet.js [main/test] [quantidade de wallets]
 
 ### Licença
-MIT
+[GPL v3](GPL.md)
 
 ### By
 Tiago Morais (tiagomf1@gmail.com)
